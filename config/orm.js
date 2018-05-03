@@ -30,5 +30,5 @@ var orm = {
          
     }
 }
-
+connection.end();
 module.exports = orm;
